@@ -21,10 +21,12 @@ Getting Started
 
   Follow these steps to deploy the Flask application using Docker:
 
-  1. **Clone the Repository**:
+  1. Clone the Repository:
 
    >>shell
+
    $git clone https://github.com/kishorjha253/Virtualization_and_Cloud_Computing.git
+
    $cd Virtualization_and_Cloud_Computing
    
   2. Build the Docker Image:
